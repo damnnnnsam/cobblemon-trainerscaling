@@ -1,14 +1,14 @@
 modLoader = "javafml"
 loaderVersion = "[1,)"
-license = "MIT License"
+license = "Unlicensed"
 
 [[mods]]
 modId = "cobblemontrainerscaling"
 version = "${version}"
-displayName = "Cobblemon Exp All"
+displayName = "Cobblemon Trainer Scaling"
 authors = "damnnnnsam"
 description = '''
-A cobblemon sidemod for implementing the exp all mechanic from the main games
+A cobblemon sidemod for adding trainer scaling best on party pokemon's max level
 '''
 
 [[dependencies.cobblemontrainerscaling]]
