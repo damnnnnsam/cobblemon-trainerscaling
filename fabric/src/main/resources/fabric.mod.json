@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "cobblemontrainerscaling",
+  "version": "${version}",
+  "name": "Cobblemon Trainer Scaling",
+  "description": "A Mod for scaling trainer levels to player party pokemon levels",
+  "authors": [
+    "The Cobblemon Team"
+  ],
+  "license": "MIT License",
+  "icon": "assets/example/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.damnnnnsam.cobblemontrainerscaling.mod.fabric.CobblemonTrainerScaling"
+    ]
+  },
+  "depends": {
+    "minecraft": "1.21.1",
+    "cobblemon": ">=1.6.1"
+  }
+}
